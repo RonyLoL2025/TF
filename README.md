@@ -12,3 +12,10 @@ Main Characteristics of the model:
 
 Backend == TF<br>
 Frontend == Streamlit
+
+Streamlit will do:
+
+1. Accept videos
+2. Predict Age, mask/no mask, gender
+3. display the images from the video with red boxes gender and age prediction
+4. Accuracy of the model and loss function
