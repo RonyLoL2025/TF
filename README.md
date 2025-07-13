@@ -10,5 +10,5 @@ Main Characteristics of the model:
 6. Multiple faces in the same photo
 
 
-Backend == TF
+Backend == TF<br>
 Frontend == Streamlit
